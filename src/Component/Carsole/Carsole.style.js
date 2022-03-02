@@ -37,7 +37,7 @@ export const Carsolestyle = styled.main`
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
-    top: 91%;
+    top: 96%;
     right: 40%;
   }
 
@@ -49,7 +49,7 @@ export const Carsolestyle = styled.main`
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
-    top: 91%;
+    top: 96%;
     left: 30%;
   }
 
@@ -59,13 +59,13 @@ export const Carsolestyle = styled.main`
 
   .container .swiper-container {
     width: 70%;
-    position: absolute;
+    /* position: absolute;
     left: 50%;
     bottom: -16vw;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
     z-index: 2;
-    padding-bottom: 3vw;
+    padding-bottom: 3vw; */
   }
 
   .swiper-slide img {
